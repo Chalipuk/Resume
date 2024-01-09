@@ -1,2 +1,3 @@
 # Resume
-Testing resume writing in ReactJS
+ทดลองสร้างเว็บเรซูเม่
+Try creating a website resume.
